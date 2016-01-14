@@ -1,1 +1,1 @@
-# Groueper device tree for Chroma 5.1
+# Grouper device tree for Chroma 5.1
