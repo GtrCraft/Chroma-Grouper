@@ -1,1 +1,1 @@
-# android_device_asus_grouper
+# Groueper device tree for Chroma 5.1
